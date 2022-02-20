@@ -4,21 +4,11 @@
   'description': 'student module for learning odoo',
   'summary': 'student module for training',
   'author': 'nkokhelo Tembe',
-  'website': 'www.odoo.com',
+  'website': 'https://www.odoo.com',
   'license': 'LGPL-3',
   'category': 'training',
-  'depends': [
-    'base'
-  ],
-  'data': [
-    ''
-  ],
-  'demo': [
-    ''
-  ],
-  'auto_install': False,
-  'application': False,
-  'assets': {
-    
-  }
+  'depends': ['base'],
+  'data': [],
+  'demo': [ ],
+  'assets': { }
 }
